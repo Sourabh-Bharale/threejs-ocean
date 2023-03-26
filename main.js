@@ -30,6 +30,7 @@ class Duck {
     }
   }
 }
+
 const duck = new Duck()
 
 
